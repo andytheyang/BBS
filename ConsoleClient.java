@@ -1,3 +1,4 @@
+// Usage: java ConsoleClient [hostname] [port number]
 import java.io.IOException;
 import java.util.Scanner;
 
